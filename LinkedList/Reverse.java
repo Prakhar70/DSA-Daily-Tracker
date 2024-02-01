@@ -24,5 +24,4 @@ public class Reverse {
         p.end.next=head;
         return new Pair(p.start, head);
     }
-    
 }
