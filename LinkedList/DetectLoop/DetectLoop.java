@@ -1,8 +1,8 @@
-package LinkedList.DetechLoop;
+package LinkedList.DetectLoop;
 
 import LinkedList.ListNode;
 
-public class DetechLoop {
+public class DetectLoop {
     public boolean hasCycle(ListNode head) {
         ListNode slow=head;
         ListNode fast=head;
