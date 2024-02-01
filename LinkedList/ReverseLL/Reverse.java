@@ -1,4 +1,6 @@
-package LinkedList;
+package LinkedList.ReverseLL;
+
+import LinkedList.ListNode;
 
 public class Reverse {
     public ListNode reverseListIter(ListNode head) {

@@ -1,4 +1,6 @@
-package LinkedList;
+package LinkedList.ReverseLL;
+
+import LinkedList.ListNode;
 
 public class Pair {
     public ListNode start;
