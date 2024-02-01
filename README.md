@@ -5,5 +5,4 @@
         - addFirst
     - Reverse linkedlist in k groups
         - Iterative
-        
     - Detech cycle in linkedlist
